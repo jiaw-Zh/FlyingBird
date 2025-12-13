@@ -1,6 +1,6 @@
 # FlyingBird 飞鸟机场
 
-## 最新地址
+## 最新官网地址
 
 网址一: [https://fbweb02.flyingbird.la](https://fbweb02.flyingbird.la/auth/register?code=VbAs2ScQ) (可直连)
 
