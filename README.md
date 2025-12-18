@@ -2,15 +2,15 @@
 
 ## 最新官网地址
 
-网址一: [https://fbweb02.flyingbird.la](https://fbweb02.flyingbird.la/auth/register?code=VbAs2ScQ) (可直连)
+网址一: [https://fbweb02.flyingbird.la](https://fbweb02.flyingbird.la/auth/register?code=d54lZBVT) (可直连)
 
-网址二: [https://fbweb03.flyingbird.id](https://fbweb03.flyingbird.id/auth/register?code=VbAs2ScQ) (可直连)
+网址二: [https://fbweb03.flyingbird.id](https://fbweb03.flyingbird.id/auth/register?code=d54lZBVT) (可直连)
 
-网址三: [https://w01.fbweb.cc](https://w01.fbweb.cc/auth/register?code=VbAs2ScQ) (可直连)
+网址三: [https://w01.fbweb.cc](https://w01.fbweb.cc/auth/register?code=d54lZBVT) (可直连)
 
-网址四:[https://www.fbweb.cc](https://www.fbweb.cc/auth/register?code=VbAs2ScQ)
+网址四:[https://www.fbweb.cc](https://www.fbweb.cc/auth/register?code=d54lZBVT)
 
-网址五:[https://flyingbird.cc](https://flyingbird.cc/auth/register?code=VbAs2ScQ)
+网址五:[https://flyingbird.cc](https://flyingbird.cc/auth/register?code=d54lZBVT)
 
 ## FlyingBird 机场介绍
 
